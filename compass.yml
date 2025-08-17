@@ -1,0 +1,16 @@
+name: sim
+id: ari:cloud:compass:6531ebe9-1b3a-4f2a-8653-180c5ab1b17d:component/a11e654f-fbb0-4383-891d-d22c4dacf0af/91390abb-64e6-44f1-bc4a-ed71e05f8c86
+description: Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/thewlabs/sim
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
